@@ -1,0 +1,21 @@
+img.foto-grupo {
+    border-radius:50%;
+    display: inline-block;
+    position: relative;
+    height:140px;
+    width: 140px;
+    transition: transform .2s; /* Animation */
+    overflow: hidden;
+}
+
+img.foto-grupo:hover {
+    transform: scale(3);
+}
+
+h2.nome-grupo {
+    color:#ff5722;
+}
+
+p.descricao-grupo {
+    font-size: 1.2rem;
+}
