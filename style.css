@@ -1,3 +1,7 @@
+img.img-fluid {
+    overflow:hidden;
+} 
+
 img.foto-grupo {
     border-radius:50%;
     display: inline-block;
@@ -18,4 +22,17 @@ h2.nome-grupo {
 
 p.descricao-grupo {
     font-size: 1.2rem;
+}
+
+p.descricao-tiktok {
+    color: #000;
+    margin-top: 30px;
+}
+
+h1#primeiro {
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-size: 3rem;
+    text-align: center;
+    text-shadow:2px 2px 2px rgb(0, 0, 0);
 }
