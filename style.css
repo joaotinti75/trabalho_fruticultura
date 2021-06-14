@@ -13,7 +13,7 @@ img.foto-grupo {
 }
 
 img.foto-grupo:hover {
-    transform: scale(3);
+    transform: scale(2.5);
 }
 
 h2.nome-grupo {
