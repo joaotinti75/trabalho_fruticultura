@@ -35,6 +35,12 @@ function renderizarHTML() {
                 <div class="alert alert-success certa" role="alert">
                     Resposta certa!
                 </div>
+                <div class="tiktok-container">
+                    <h4>Clique na imagem abaixo para ver a resposta!</h4>
+                    <a href="https://www.tiktok.com/@osmeninodalaranja/video/${tikTokId[i]}" target="_blank"> 
+                        <img src="images/capa_videos/${'video'+i}_img.jfif">
+                    </a>
+                </div>
             </div>
             `
         areaQuiz.appendChild(pergunta);
@@ -52,6 +58,7 @@ function checarResposta(respostaUsuario, respostasCorretas) {
 
 function exibirResposta(acertou, botao) {
     let resposta = botao.nextElementSibling;
+    resposta.querySelector('.tiktok-container').style.display = 'block';
     if (acertou) {
         resposta.querySelector('.certa').style.display = 'block';
         resposta.querySelector('.errada').style.display = 'none';
@@ -68,7 +75,6 @@ document.querySelectorAll('.enviar').forEach( botao => {
     let acertou;
     botao.addEventListener('click', () => {
         let respostaUsuario = document.querySelector(`input[name=${botao.id}]:checked`);
-        console.log(respostaUsuario);
         if (respostaUsuario == null) {
             alert('Marque uma alternativa!');
         } else {

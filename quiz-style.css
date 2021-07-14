@@ -10,3 +10,13 @@ h1 {
 .ans {
     margin-bottom: 10px;
 }
+
+.respostas .tiktok-container {
+    display: none;
+}
+
+img {
+    width: 200px;
+    height: 50%;
+    border: 1px #333 solid;
+}
