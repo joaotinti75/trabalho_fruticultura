@@ -12,17 +12,17 @@ const respostasCorretas = {
 };
 
 const perguntas = [
-    'Qual é o maior estado produtor de citrus no Brasil?',
-    'Qual a família dos citros?',
-    'Quanto tempo dura a safra dos citros?',
+    'Qual é o maior estado produtor de laranja no Brasil?',
+    'Qual a família da laranja?',
+    'Quanto tempo dura a safra da laranja?',
     'Qual a variedade mais plantada?',
     'Qual a principal doença dos citros?',
-    'Qual a principal vitamina proveniente dos citros?',
+    'Qual a principal vitamina proveniente da laranja?',
     'Quais são os sintomas de deficiência de nitrogenio?',
-    'Quais são os sintomas de deficiência de Calcio?',
+    'Quais são os sintomas de deficiência de calcio?',
     'Quais são os sintomas de deficiência de molibdênio?',
     'Quais são os sintomas de deficiência de manganês?'
-]
+];
 
 alternativas = [
     {a:'São Paulo', b:'Paraná', c:'Pernambuco', d:'Rio de Janeiro'},
@@ -39,4 +39,21 @@ alternativas = [
     {a:'amarelecimento das folhas mais velhas, folhas ficam pálidas, tamanho reduzido e caem precocemente', b:'amarelecimento mosqueado na folha nas folhas jovens', c:'amarelecimento ao longo das margens nas folhas maduras', d:'Manchas grandes, amarelo-brilhantes, circulares ou elípticas entre as nervuras'},
 
     {a:'amarelecimento das folhas mais velhas, folhas ficam pálidas, tamanho reduzido e caem precocemente', b:'amarelecimento mosqueado na folha nas folhas jovens', c:'amarelecimento ao longo das margens nas folhas maduras', d:'Manchas grandes, amarelo-brilhantes, circulares ou elípticas entre as nervuras'}
-]
+];
+
+const tikTokId = 
+[
+    '6984795054615317765',
+    '6984803960662101253',
+    '6984836854675705093',
+    '6984876418509360390',
+    '6984883788887248134',
+    '6984883788887248134',
+    '6984883788887248134',
+    '6984883788887248134',
+    '6984883788887248134',
+    '6984883788887248134',
+];
+
+
+
