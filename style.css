@@ -47,3 +47,19 @@ hr.featurette-divider {
     font-size: 40px;
 }
 
+.mascote-main h2 {
+    margin-bottom: 30px;
+}
+
+.mascote-main img {
+    border-radius: 30px;
+}
+
+
+
+@media all and (max-width: 450px) {
+    #mascote, #mascote-main {
+        content: url('images/mascote_pequeno.png');
+    }
+
+}
