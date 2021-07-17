@@ -8,7 +8,7 @@ const respostasCorretas = {
     r7:'amarelecimento das folhas mais velhas, folhas ficam pálidas, tamanho reduzido e caem precocemente',
     r8:'amarelecimento ao longo das margens nas folhas maduras',
     r9:'Manchas grandes, amarelo-brilhantes, circulares ou elípticas entre as nervuras',
-    r10:'amarelecimento mosqueado na folha nas folhas jovens'
+    r10:'amarelecimento mosqueado nas folhas jovens'
 };
 
 const perguntas = [
@@ -32,13 +32,13 @@ alternativas = [
     {a:'Greening', b:'Antracnose', c:'Cancro-cítrico', d:'Gomose'},
     {a:'Vitamina C', b:'Vitamina A', c:'Vitamina B', d:'Vitamina D'},
 
-    {a:'amarelecimento das folhas mais velhas, folhas ficam pálidas, tamanho reduzido e caem precocemente', b:'amarelecimento mosqueado na folha nas folhas jovens', c:'amarelecimento ao longo das margens nas folhas maduras', d:'Manchas grandes, amarelo-brilhantes, circulares ou elípticas entre as nervuras'},
+    {a:'amarelecimento das folhas mais velhas, folhas ficam pálidas, tamanho reduzido e caem precocemente', b:'amarelecimento mosqueado nas folhas jovens', c:'amarelecimento ao longo das margens nas folhas maduras', d:'Manchas grandes, amarelo-brilhantes, circulares ou elípticas entre as nervuras'},
 
-    {a:'amarelecimento das folhas mais velhas, folhas ficam pálidas, tamanho reduzido e caem precocemente', b:'amarelecimento mosqueado na folha nas folhas jovens', c:'amarelecimento ao longo das margens nas folhas maduras', d:'Manchas grandes, amarelo-brilhantes, circulares ou elípticas entre as nervuras'},
+    {a:'amarelecimento das folhas mais velhas, folhas ficam pálidas, tamanho reduzido e caem precocemente', b:'amarelecimento mosqueado nas folhas jovens', c:'amarelecimento ao longo das margens nas folhas maduras', d:'Manchas grandes, amarelo-brilhantes, circulares ou elípticas entre as nervuras'},
 
-    {a:'amarelecimento das folhas mais velhas, folhas ficam pálidas, tamanho reduzido e caem precocemente', b:'amarelecimento mosqueado na folha nas folhas jovens', c:'amarelecimento ao longo das margens nas folhas maduras', d:'Manchas grandes, amarelo-brilhantes, circulares ou elípticas entre as nervuras'},
+    {a:'amarelecimento das folhas mais velhas, folhas ficam pálidas, tamanho reduzido e caem precocemente', b:'amarelecimento mosqueado nas folhas jovens', c:'amarelecimento ao longo das margens nas folhas maduras', d:'Manchas grandes, amarelo-brilhantes, circulares ou elípticas entre as nervuras'},
 
-    {a:'amarelecimento das folhas mais velhas, folhas ficam pálidas, tamanho reduzido e caem precocemente', b:'amarelecimento mosqueado na folha nas folhas jovens', c:'amarelecimento ao longo das margens nas folhas maduras', d:'Manchas grandes, amarelo-brilhantes, circulares ou elípticas entre as nervuras'}
+    {a:'amarelecimento das folhas mais velhas, folhas ficam pálidas, tamanho reduzido e caem precocemente', b:'amarelecimento mosqueado nas folhas jovens', c:'amarelecimento ao longo das margens nas folhas maduras', d:'Manchas grandes, amarelo-brilhantes, circulares ou elípticas entre as nervuras'}
 ];
 
 const tikTokId = 
